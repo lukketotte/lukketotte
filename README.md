@@ -3,14 +3,14 @@
 [![langs stats-Dark](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-light-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-light-mode-only)
 [![langs stats-Light](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=ffffff&border_color=d3d9df#gh-light-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-light-mode-only)
 
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=false&bg_color=0e1117&border_color=3f444c"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=185  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c"/>
 </a>
-
-<!--
 ![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
 **lukketotte/lukketotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
