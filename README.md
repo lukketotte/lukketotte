@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=true" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=true" />
+  <img height=175  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=true" />
 </a>
 
 <!--
