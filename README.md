@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
-![Git rating](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact)
+![Git rating](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark)
 
 <!--
 ![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
