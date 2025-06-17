@@ -1,7 +1,8 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dracula&layout=compact)
-![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=radical&layout=compact)
+![Git rating](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=radical)
 
 <!--
+![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
 **lukketotte/lukketotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
