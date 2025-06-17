@@ -1,5 +1,9 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact)
-![Git rating](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=true" />
+</a>
 
 <!--
 ![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
