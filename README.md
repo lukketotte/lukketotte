@@ -2,7 +2,7 @@
   <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=175  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=true" />
+  <img height=175  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117" />
 </a>
 
 <!--
