@@ -1,6 +1,6 @@
 [![langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-dark-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-dark-mode-only)
 [![langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=light&layout=compact&hide_border=false&bg_color=ffffff&border_color=d3d9df#gh-light-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-light-mode-only)
-[![langs stats-Dark](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-light-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-light-mode-only)
+[![langs stats-Dark](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-dark-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-dark-mode-only)
 [![langs stats-Light](https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=ffffff&border_color=d3d9df#gh-light-mode-only)](https://github.com/lukktetotte/github-readme-stats#gh-light-mode-only)
 
 
