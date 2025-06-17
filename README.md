@@ -1,8 +1,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=false&bg_color=0e1117&border_color=3f444c"/>
+  <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-dark-mode-only"/>
+  <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dark&layout=compact&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-light-mode-only"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=185  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c"/>
+  <img height=185  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-dark-mode-only"/>
+  <img height=185  src="https://github-readme-stats.vercel.app/api?username=lukketotte&show_icons=true&theme=dark&hide_border=false&bg_color=0e1117&border_color=3f444c#gh-light-mode-only"/>
 </a>
 
 <!--
