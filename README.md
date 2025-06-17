@@ -1,4 +1,5 @@
-## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dracula)
+![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
 
 <!--
 **lukketotte/lukketotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
