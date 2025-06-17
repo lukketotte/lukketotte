@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukketotte&hide=jupyter%20notebook&show_icons=true&theme=dracula&layout=compact)
 ![Git streak](https://streak-stats.demolab.com/?user=lukketotte&theme=dracula)
 
 <!--
